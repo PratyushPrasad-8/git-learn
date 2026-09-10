@@ -1,0 +1,2 @@
+I am adding the camera module as well because may be the other person working on this 
+project will no get enough time.
